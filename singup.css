@@ -1,0 +1,44 @@
+.formulaire {
+  font: 95% Arial, Helvetica, sans-serif;
+  max-width: 400px;
+  margin: auto;
+  padding: auto;
+  background: #f7f7f7;
+}
+h1 {
+  text-align: center;
+  font-size: auto;
+  font-style: italic;
+}
+.a {
+  background: #43d1af;
+  padding: auto;
+  font-size: 140%;
+  font-weight: 300;
+  text-align: center;
+  color: #fff;
+  margin: auto;
+}
+
+.b {
+  outline: none;
+  box-sizing: border-box;
+  width: 100%;
+  background: #fff;
+  margin-bottom: auto;
+  border: 1px solid #ccc;
+  padding: auto;
+  color: #555;
+  font: 95% Arial, Helvetica, sans-serif;
+}
+
+.b1 {
+  width: 100%;
+  padding: 3%;
+  background: #43d1af;
+  border-bottom: 2px solid #30c29e;
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  color: #fff;
+}
